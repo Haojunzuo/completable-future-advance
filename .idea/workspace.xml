@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c98f7dca-cde4-4465-b5c4-1807cd5c2858" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/software/mvn/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="G:\software\mvn\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Jw4aRShn3sfK7SRwfhmyyHKX7n" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.wolfcode._03_parallelstream_completablefuture" />
+      <recent name="cn.wolfcode._01_completablefuture_interaction" />
+      <recent name="cn.wolfcode.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\00-kal-timeline\completable-future-advance\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ComparePriceDemo">
+    <configuration name="ComparePriceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wolfcode._04_compare_price.ComparePriceDemo" />
+      <module name="completable-future-advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wolfcode._04_compare_price.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wolfcode._03_parallelstream_completablefuture.CompletableFutureDemo" />
+      <module name="completable-future-advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wolfcode._03_parallelstream_completablefuture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFutureDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wolfcode._03_parallelstream_completablefuture.CompletableFutureDemo2" />
+      <module name="completable-future-advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wolfcode._03_parallelstream_completablefuture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wolfcode._03_parallelstream_completablefuture.ParallelStreamDemo" />
+      <module name="completable-future-advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wolfcode._03_parallelstream_completablefuture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wolfcode._03_parallelstream_completablefuture.SequenceDemo" />
+      <module name="completable-future-advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wolfcode._03_parallelstream_completablefuture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComparePriceDemo" />
+        <item itemvalue="Application.CompletableFutureDemo2" />
+        <item itemvalue="Application.CompletableFutureDemo" />
+        <item itemvalue="Application.ParallelStreamDemo" />
+        <item itemvalue="Application.SequenceDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c98f7dca-cde4-4465-b5c4-1807cd5c2858" name="Default Changelist" comment="" />
+      <created>1672975874917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672975874917</updated>
+      <workItem from="1672975877427" duration="5813000" />
+      <workItem from="1672985648464" duration="1420000" />
+      <workItem from="1672991490959" duration="14424000" />
+      <workItem from="1673053921647" duration="31488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1673076973967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1673076973967" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1673057113677" />
+    <state width="1493" height="400" key="GridCell.Tab.0.bottom" timestamp="1673091944673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="400" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1673091944673" />
+    <state width="1493" height="339" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1673069668786" />
+    <state width="1493" height="400" key="GridCell.Tab.0.center" timestamp="1673091944673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="400" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1673091944673" />
+    <state width="1493" height="339" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1673069668786" />
+    <state width="1493" height="400" key="GridCell.Tab.0.left" timestamp="1673091944673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="400" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1673091944673" />
+    <state width="1493" height="339" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1673069668786" />
+    <state width="1493" height="400" key="GridCell.Tab.0.right" timestamp="1673091944673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="400" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1673091944673" />
+    <state width="1493" height="339" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1673069668786" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1673059750289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1673059750289" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1672976894346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1672976894346" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1673059033783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1673059033783" />
+  </component>
+</project>
